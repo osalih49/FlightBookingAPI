@@ -59,7 +59,7 @@ namespace FlightBookingAPI.Data
                     DepartureTimes = new List<string> { "07:30", "14:05", "20:20" },
                     DaysOfWeek = allDays,
                     Capacity = 100,
-                    BasePrice = 179
+                    BasePrice = 179m
                 },
 
                  new ScheduleTemplate
