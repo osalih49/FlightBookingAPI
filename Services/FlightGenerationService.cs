@@ -2,5 +2,9 @@
 {
     public class FlightGenerationService
     {
+        GenerateFlightsForNextDays(int days)
+        {
+
+        }
     }
 }

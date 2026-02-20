@@ -1,6 +1,6 @@
 ﻿namespace FlightBookingAPI.Controllers
 {
-    public class FlightController
+    public class FlightsController
     {
     }
 }
