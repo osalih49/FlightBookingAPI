@@ -35,3 +35,4 @@ C:\Users\oosalih\Documents\AccountManager\FlightBookingAPI\FlightBookingAPI\obj\
 C:\Users\oosalih\Documents\AccountManager\FlightBookingAPI\FlightBookingAPI\obj\Debug\net8.0\FlightBookingAPI.pdb
 C:\Users\oosalih\Documents\AccountManager\FlightBookingAPI\FlightBookingAPI\obj\Debug\net8.0\FlightBookingAPI.genruntimeconfig.cache
 C:\Users\oosalih\Documents\AccountManager\FlightBookingAPI\FlightBookingAPI\obj\Debug\net8.0\ref\FlightBookingAPI.dll
+C:\Users\oosalih\Documents\AccountManager\FlightBookingAPI\FlightBookingAPI\obj\Debug\net8.0\FlightBookingAPI.sourcelink.json
